@@ -24,3 +24,10 @@
 *.bcf
 *.run.xml
 .gitconfig
+nssample.fdb_latexmk
+
+nssample.fls
+
+nssample.pdf
+
+nssample.tbc
